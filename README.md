@@ -1,6 +1,5 @@
 ![👋 Hi, my name is Hariom Mahato ](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
 
-![Profile views](https://komarev.com/ghpvc/?username=mahatoHariom &label=Profile%20views&color=0e75b6&style=flat)
 
 <div id="toc">
   <ul align="left" style="list-style: none">
@@ -35,6 +34,3 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahatoHariom &theme=default&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub stats Card" />
 </p>
 
- **<h3 align="left">Support Me</h3>**
-
-<p align="left"><a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
